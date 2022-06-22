@@ -1,6 +1,6 @@
 pandas===0.24.2
 imutils===0.5.2
-numpy===1.16.4
+numpy===1.22.0
 sklearn===0.0
 dash===0.43.0
 dash_html_components===0.16.0
