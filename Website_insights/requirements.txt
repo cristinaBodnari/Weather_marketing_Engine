@@ -3,7 +3,7 @@ imutils===0.5.2
 numpy===1.16.4
 sklearn===0.0
 dash===0.43.0
-dash_html_components===0.16.0
+dash_html_components===2.0.0
 dash_dangerously_set_inner_html===0.0.2
 dash_core_components===0.48.0
 plotly===3.10.0
